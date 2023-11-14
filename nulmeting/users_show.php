@@ -1,0 +1,7 @@
+<?PHP
+
+require('database.php');
+
+
+
+?>
